@@ -222,6 +222,10 @@
    .about{
        padding: 2rem;
    }
+
+   .image1 img {
+    border-radius: 10px;
+   }
    .descriptionaboutus{
        padding: 2rem;
        display: grid;
